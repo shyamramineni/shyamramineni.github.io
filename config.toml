@@ -1,0 +1,4 @@
+baseURL = "http://shyamramineni.com/"
+languageCode = "en-us"
+title = "Shyam Ramineni"
+theme = "hyde"
