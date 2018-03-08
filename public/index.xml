@@ -6,10 +6,21 @@
     <description>Recent content on Shyam Ramineni</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 07 Mar 2018 15:44:35 +0530</lastBuildDate>
+    <lastBuildDate>Thu, 08 Mar 2018 19:30:59 +0530</lastBuildDate>
     
 	<atom:link href="http://shyamramineni.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Personal Website Technical Update</title>
+      <link>http://shyamramineni.com/posts/personal-website-technical-update/</link>
+      <pubDate>Thu, 08 Mar 2018 19:30:59 +0530</pubDate>
+      
+      <guid>http://shyamramineni.com/posts/personal-website-technical-update/</guid>
+      <description>Today I was able to get this website up based on GitHub based workflow. I commit content markdown into GitHub. I manually fire AWS codebuild and it picks up the source code of hugo project, runs Hugo and updates S3 bucket with static HTML from which this website is being served.
+#Things TODO
+ Automate build based GitHub pull request Figure out images Organize content by Tags and Categories Create pages  </description>
+    </item>
     
     <item>
       <title>Personal Website using Hugo, AWS S3</title>
