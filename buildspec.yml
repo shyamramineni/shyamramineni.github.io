@@ -11,7 +11,8 @@ phases:
       - hugo version
   build:
     commands:
-      - echo BUILD phase
+      - echo BUILD phase commands
+      - cd $CODEBUILD_SRC_DIR
       - pwd
       - hugo
       - aws sync public/ s3://shyamramineni.com/ --region ap-south-1
