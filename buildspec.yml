@@ -12,6 +12,9 @@ phases:
   build:
     commands:
       - echo BUILD phase
+      - pwd
+      - hugo
+      - aws sync public/ s3://shyamramineni.com/ --region ap-south-1
   post_build:
     commands:
       - echo Build completed on `date`
