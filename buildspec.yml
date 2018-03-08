@@ -16,7 +16,7 @@ phases:
       - pwd
       - hugo
       - aws s3 ls
-      - aws s3 sync public/ s3://shyamramineni.com/ --region ap-south-1
+      - aws s3 sync --delete public s3://shyamramineni.com --cache-control max-age=3600
   post_build:
     commands:
       - echo Build completed on `date`
