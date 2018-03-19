@@ -1,4 +1,4 @@
-baseURL = "http://d3p5q7mk2qwetk.cloudfront.net"
+baseURL = "https://d3p5q7mk2qwetk.cloudfront.net"
 languageCode = "en-us"
 title = "Shyam Ramineni"
 theme = "hyde"
