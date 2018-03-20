@@ -3,34 +3,76 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://d3p5q7mk2qwetk.cloudfront.net/posts/personal-website-technical-update/</loc>
+    <loc>https://shyamramineni.com/posts/personal-website-technical-update/</loc>
     <lastmod>2018-03-08T19:30:59+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://d3p5q7mk2qwetk.cloudfront.net/posts/hugo-aws-s3-personal-website/</loc>
+    <loc>https://shyamramineni.com/posts/hugo-aws-s3-personal-website/</loc>
     <lastmod>2018-03-07T15:44:35+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://d3p5q7mk2qwetk.cloudfront.net/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://d3p5q7mk2qwetk.cloudfront.net/posts/</loc>
+    <loc>https://shyamramineni.com/tags/aws/</loc>
     <lastmod>2018-03-08T19:30:59+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://d3p5q7mk2qwetk.cloudfront.net/</loc>
+    <loc>https://shyamramineni.com/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://shyamramineni.com/tags/cloudfront/</loc>
     <lastmod>2018-03-08T19:30:59+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://d3p5q7mk2qwetk.cloudfront.net/tags/</loc>
+    <loc>https://shyamramineni.com/tags/codebuild/</loc>
+    <lastmod>2018-03-08T19:30:59+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://shyamramineni.com/tags/hugo/</loc>
+    <lastmod>2018-03-08T19:30:59+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://shyamramineni.com/tags/personal/</loc>
+    <lastmod>2018-03-08T19:30:59+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://shyamramineni.com/posts/</loc>
+    <lastmod>2018-03-08T19:30:59+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://shyamramineni.com/tags/s3/</loc>
+    <lastmod>2018-03-08T19:30:59+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://shyamramineni.com/series/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://shyamramineni.com/</loc>
+    <lastmod>2018-03-08T19:30:59+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://shyamramineni.com/tags/</loc>
+    <lastmod>2018-03-08T19:30:59+05:30</lastmod>
     <priority>0</priority>
   </url>
   

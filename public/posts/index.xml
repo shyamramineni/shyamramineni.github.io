@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Shyam Ramineni</title>
-    <link>http://d3p5q7mk2qwetk.cloudfront.net/posts/</link>
+    <link>https://shyamramineni.com/posts/</link>
     <description>Recent content in Posts on Shyam Ramineni</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 08 Mar 2018 19:30:59 +0530</lastBuildDate>
     
-	<atom:link href="http://d3p5q7mk2qwetk.cloudfront.net/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://shyamramineni.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Personal Website Technical Update</title>
-      <link>http://d3p5q7mk2qwetk.cloudfront.net/posts/personal-website-technical-update/</link>
+      <title>Personal Website Technical - Update 1</title>
+      <link>https://shyamramineni.com/posts/personal-website-technical-update/</link>
       <pubDate>Thu, 08 Mar 2018 19:30:59 +0530</pubDate>
       
-      <guid>http://d3p5q7mk2qwetk.cloudfront.net/posts/personal-website-technical-update/</guid>
+      <guid>https://shyamramineni.com/posts/personal-website-technical-update/</guid>
       <description> Today I was able to get this website up and running based on GitHub based workflow. I commit content markdown into GitHub, then I manually fire AWS codebuild. Build then picks up the source code of hugo project, runs Hugo, updates S3 bucket with static HTML.
 Things TODO  Automate build based GitHub pull request Figure out images Organize content by Tags and Categories Create pages  </description>
     </item>
     
     <item>
       <title>Personal Website using Hugo, AWS S3</title>
-      <link>http://d3p5q7mk2qwetk.cloudfront.net/posts/hugo-aws-s3-personal-website/</link>
+      <link>https://shyamramineni.com/posts/hugo-aws-s3-personal-website/</link>
       <pubDate>Wed, 07 Mar 2018 15:44:35 +0530</pubDate>
       
-      <guid>http://d3p5q7mk2qwetk.cloudfront.net/posts/hugo-aws-s3-personal-website/</guid>
+      <guid>https://shyamramineni.com/posts/hugo-aws-s3-personal-website/</guid>
       <description>This is first post on my personal website which I developed using Hugo. This site hosted on AWS using S3 static web hosting.</description>
     </item>
     

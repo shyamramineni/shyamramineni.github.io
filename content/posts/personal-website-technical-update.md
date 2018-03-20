@@ -1,7 +1,8 @@
 ---
-title: "Personal Website Technical Update"
+title: "Personal Website Technical - Update 1"
 date: 2018-03-08T19:30:59+05:30
 draft: false
+tags: [ "Personal", "Hugo", "AWS", "S3", "CodeBuild", "CloudFront" ]
 ---
 
 Today I was able to get this website up and running based on GitHub based workflow. 

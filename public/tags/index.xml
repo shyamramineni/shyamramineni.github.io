@@ -2,13 +2,68 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Shyam Ramineni</title>
-    <link>http://d3p5q7mk2qwetk.cloudfront.net/tags/</link>
+    <link>https://shyamramineni.com/tags/</link>
     <description>Recent content in Tags on Shyam Ramineni</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Thu, 08 Mar 2018 19:30:59 +0530</lastBuildDate>
     
-	<atom:link href="http://d3p5q7mk2qwetk.cloudfront.net/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://shyamramineni.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Aws</title>
+      <link>https://shyamramineni.com/tags/aws/</link>
+      <pubDate>Thu, 08 Mar 2018 19:30:59 +0530</pubDate>
+      
+      <guid>https://shyamramineni.com/tags/aws/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cloudfront</title>
+      <link>https://shyamramineni.com/tags/cloudfront/</link>
+      <pubDate>Thu, 08 Mar 2018 19:30:59 +0530</pubDate>
+      
+      <guid>https://shyamramineni.com/tags/cloudfront/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Codebuild</title>
+      <link>https://shyamramineni.com/tags/codebuild/</link>
+      <pubDate>Thu, 08 Mar 2018 19:30:59 +0530</pubDate>
+      
+      <guid>https://shyamramineni.com/tags/codebuild/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hugo</title>
+      <link>https://shyamramineni.com/tags/hugo/</link>
+      <pubDate>Thu, 08 Mar 2018 19:30:59 +0530</pubDate>
+      
+      <guid>https://shyamramineni.com/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Personal</title>
+      <link>https://shyamramineni.com/tags/personal/</link>
+      <pubDate>Thu, 08 Mar 2018 19:30:59 +0530</pubDate>
+      
+      <guid>https://shyamramineni.com/tags/personal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S3</title>
+      <link>https://shyamramineni.com/tags/s3/</link>
+      <pubDate>Thu, 08 Mar 2018 19:30:59 +0530</pubDate>
+      
+      <guid>https://shyamramineni.com/tags/s3/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
