@@ -1,6 +1,6 @@
 ---
 title: "Java Streams Notes and Examples"
-date: 2019-07-19T19:30:59+05:30
+date: 2019-07-18T19:30:59+05:30
 draft: false
 tags: [ "Java", "Streams", "Collections" ]
 ---
