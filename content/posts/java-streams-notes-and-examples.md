@@ -76,7 +76,7 @@ tags: [ "Java", "Streams", "Collections" ]
         }
       }
 
-  # Method References
+# Method References
 
         import java.math.BigInteger;  
         import java.util.function.*;  
