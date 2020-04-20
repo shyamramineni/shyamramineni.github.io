@@ -6,33 +6,60 @@
     <description>Recent content in Tags on Shyam Ramineni</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 08 Mar 2018 19:30:59 +0530</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jul 2019 19:30:59 +0530</lastBuildDate>
     
 	<atom:link href="https://shyamramineni.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Aws</title>
+      <title>Collections</title>
+      <link>https://shyamramineni.com/tags/collections/</link>
+      <pubDate>Thu, 18 Jul 2019 19:30:59 +0530</pubDate>
+      
+      <guid>https://shyamramineni.com/tags/collections/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Java</title>
+      <link>https://shyamramineni.com/tags/java/</link>
+      <pubDate>Thu, 18 Jul 2019 19:30:59 +0530</pubDate>
+      
+      <guid>https://shyamramineni.com/tags/java/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Streams</title>
+      <link>https://shyamramineni.com/tags/streams/</link>
+      <pubDate>Thu, 18 Jul 2019 19:30:59 +0530</pubDate>
+      
+      <guid>https://shyamramineni.com/tags/streams/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AWS</title>
       <link>https://shyamramineni.com/tags/aws/</link>
-      <pubDate>Thu, 08 Mar 2018 19:30:59 +0530</pubDate>
+      <pubDate>Tue, 20 Mar 2018 17:02:09 +0530</pubDate>
       
       <guid>https://shyamramineni.com/tags/aws/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Cloudfront</title>
+      <title>CloudFront</title>
       <link>https://shyamramineni.com/tags/cloudfront/</link>
-      <pubDate>Thu, 08 Mar 2018 19:30:59 +0530</pubDate>
+      <pubDate>Tue, 20 Mar 2018 17:02:09 +0530</pubDate>
       
       <guid>https://shyamramineni.com/tags/cloudfront/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Codebuild</title>
+      <title>CodeBuild</title>
       <link>https://shyamramineni.com/tags/codebuild/</link>
-      <pubDate>Thu, 08 Mar 2018 19:30:59 +0530</pubDate>
+      <pubDate>Tue, 20 Mar 2018 17:02:09 +0530</pubDate>
       
       <guid>https://shyamramineni.com/tags/codebuild/</guid>
       <description></description>
@@ -41,7 +68,7 @@
     <item>
       <title>Hugo</title>
       <link>https://shyamramineni.com/tags/hugo/</link>
-      <pubDate>Thu, 08 Mar 2018 19:30:59 +0530</pubDate>
+      <pubDate>Tue, 20 Mar 2018 17:02:09 +0530</pubDate>
       
       <guid>https://shyamramineni.com/tags/hugo/</guid>
       <description></description>
@@ -50,7 +77,7 @@
     <item>
       <title>Personal</title>
       <link>https://shyamramineni.com/tags/personal/</link>
-      <pubDate>Thu, 08 Mar 2018 19:30:59 +0530</pubDate>
+      <pubDate>Tue, 20 Mar 2018 17:02:09 +0530</pubDate>
       
       <guid>https://shyamramineni.com/tags/personal/</guid>
       <description></description>
@@ -59,7 +86,7 @@
     <item>
       <title>S3</title>
       <link>https://shyamramineni.com/tags/s3/</link>
-      <pubDate>Thu, 08 Mar 2018 19:30:59 +0530</pubDate>
+      <pubDate>Tue, 20 Mar 2018 17:02:09 +0530</pubDate>
       
       <guid>https://shyamramineni.com/tags/s3/</guid>
       <description></description>
