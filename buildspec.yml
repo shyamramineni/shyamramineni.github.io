@@ -6,7 +6,7 @@ phases:
       - echo Build started on `date`
       - echo Installing Hugo
       - cd ~
-      - wget https://github.com/gohugoio/hugo/releases/download/v0.37.1/hugo_0.37.1_Linux-64bit.deb
+      - wget https://github.com/gohugoio/hugo/releases/download/v0.58.3/hugo_0.58.3_Linux-64bit.deb
       - dpkg -i hugo*.deb
       - hugo version
   build:
