@@ -5,6 +5,8 @@ draft: false
 tags: [ "Java", "Streams", "Collections" ]
 ---
 
+This post is my notes that I collected when I was learning about Java Streams.<!--more-->
+
 # Function Interfaces Notes
 1. java.util.functions contains Functional Interfaces which provides target for lambda expressions and method references.
 2. method references in Java    https://www.baeldung.com/java-method-references
